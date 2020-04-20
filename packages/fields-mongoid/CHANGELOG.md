@@ -1,5 +1,17 @@
 # @keystonejs/fields-mongoid
 
+## 5.1.7
+
+### Patch Changes
+
+- [`78fda9d7`](https://github.com/keystonejs/keystone/commit/78fda9d7b9a090240c946553cc42ba0bf6b8a88c) [#2775](https://github.com/keystonejs/keystone/pull/2775) Thanks [@Vultraz](https://github.com/Vultraz)! - Cleaned up FieldDescription usage. The `<FieldDescription>` component no longer accepts children and requires a `text` prop:
+
+  `<FieldDescription>Hello World</FieldDescription>` => `<FieldDescription text="Hello World" />`
+
+- Updated dependencies [[`e5fac4db`](https://github.com/keystonejs/keystone/commit/e5fac4db00e1d38c2271d8ca55e7e2bd86a07dfa)]:
+  - @arch-ui/input@0.1.8
+  - @keystonejs/fields@9.0.3
+
 ## 5.1.6
 
 ### Patch Changes

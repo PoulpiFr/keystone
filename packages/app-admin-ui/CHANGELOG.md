@@ -1,5 +1,20 @@
 # @keystonejs/app-admin-ui
 
+## 5.10.1
+
+### Patch Changes
+
+- [`16f6c300`](https://github.com/keystonejs/keystone/commit/16f6c3003d1decbb77474455ef608e3efd41ec4b) [#2699](https://github.com/keystonejs/keystone/pull/2699) Thanks [@Vultraz](https://github.com/Vultraz)! - Made keyboard shortcuts not trigger in contenteditable nodes.
+
+- Updated dependencies [[`78fda9d7`](https://github.com/keystonejs/keystone/commit/78fda9d7b9a090240c946553cc42ba0bf6b8a88c), [`e5fac4db`](https://github.com/keystonejs/keystone/commit/e5fac4db00e1d38c2271d8ca55e7e2bd86a07dfa), [`9c403c7c`](https://github.com/keystonejs/keystone/commit/9c403c7c273cc915d023bd98986d43cd4ab74477)]:
+  - @arch-ui/fields@3.0.0
+  - @arch-ui/input@0.1.8
+  - @keystonejs/fields@9.0.3
+  - @arch-ui/icons@0.1.0
+  - @arch-ui/options@0.0.19
+  - @arch-ui/pagination@0.0.19
+  - @arch-ui/pill@0.1.14
+
 ## 5.10.0
 
 ### Minor Changes
